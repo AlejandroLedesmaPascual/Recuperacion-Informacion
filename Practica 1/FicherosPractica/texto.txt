@@ -1,0 +1,6 @@
+Sobre los documentos utilizados en la práctica anterior, hacer un estudio
+estadístico sobre los distintos tokens que se obtienen al realizar distintos
+tipos de análisis ya predefinidos. Por tanto, será necesario contar el número
+de términos de indexación así como frecuencias de los mismos en cada
+documento. Realizar un análisis comparativo entre los distintos resultados
+obtenidos.
